@@ -49,3 +49,9 @@ All data is simulated and covers various cuisines, promo usage, and customer beh
 
 ---
 
+## 🔗 Links
+
+- 🧑‍💻 [GitHub](https://github.com/its-ekanshi)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ekanshisaxena)
+
+---
